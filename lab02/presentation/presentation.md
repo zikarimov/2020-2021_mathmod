@@ -62,12 +62,12 @@ section-titles: true
 
 ![Код программы ](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab02/screen/Screenshot_2.png?raw=true){ #fig:004 width=70% }
 
-## Результаты
+# Результаты
 
-### Для первого случая
+## Для первого случая
 ![Траектории движения катера и лодки. 1 случай](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab02/screen/Screenshot_3.png?raw=true){ #fig:005 width=70% }
 
-### Для второго случая
+## Для второго случая
 ![Траектории движения катера и лодки. 2 случай](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab02/screen/Screenshot_4.png?raw=true){ #fig:006 width=70% }
 
 # Выводы
