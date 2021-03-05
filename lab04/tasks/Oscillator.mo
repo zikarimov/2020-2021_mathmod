@@ -2,7 +2,7 @@ model Oscillator
 //Параметры осциллятора
 //x'' + g* x' + w^2* x = f(t)
 /*Для первого случая */
-parameter Real w = sqrt(21.0); //w - частота
+parameter Real w = sqrt(14.0); //w - частота
 parameter Real g = 0.0; //g - затухание
 
 /*Для второго случая 
@@ -13,7 +13,7 @@ parameter Real g = 2.2; //g - затухание */
 parameter Real w = sqrt(2.5); //w - частота
 parameter Real g = 2.4; //g - затухание */
 
-parameter Real x0 = 1.2;
+parameter Real x0 = 1.3;
 parameter Real y0 = -1.2;
 
 Real x(start=x0);
