@@ -90,23 +90,23 @@ $$\frac{dn}{dt} = (\alpha _1(t) + \alpha _2(t)n(t))(N-n(t))$$
 
 ## Результат
 
-![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.88+0.00008n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_2.png?raw=true){ #fig:003 width=70% }
+![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.25+0.000075n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_2.png?raw=true){ #fig:003 width=70% }
 
 
 ## Результат
 
-![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.00001+0.81n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_3.png?raw=true){ #fig:004 width=70% height=70% }
+![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.000075+0.25n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_3.png?raw=true){ #fig:004 width=70% height=70% }
 
 ## Результат
 
 Также нам требуется определить, каким будет максимальное значение скорости распространения рекламы в данном случае.
 
-![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.00001+0.81n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_4.png?raw=true){ #fig:005 width=70% height=70% }
+![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.000075+0.25n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_4.png?raw=true){ #fig:005 width=70% height=70% }
 
 
 ## Результат
 
-![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.18t+0.31tn(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_5.png?raw=true){ #fig:005 width=70% height=70% }
+![Построим график распространения рекламы, математическая модель которой описывается следующим уравнением: $\frac{dn}{dt} = (0.25\sin(t)+0.75*t*n(t))(N-n(t))$](https://github.com/zikarimov/2020-2021_mathmod/blob/master/lab07/image/Screenshot_5.png?raw=true){ #fig:005 width=70% height=70% }
 
 
 # Выводы
